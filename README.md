@@ -1,16 +1,75 @@
-## Hi there 👋
+### Hi, I'm Gaurav | Full-Stack Developer  
 
-<!--
-**bhidwal/bhidwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about building scalable applications and exploring new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About Me  
+- 👨‍💻 I’m currently working with **AurionPro Solution Pvt. Ltd.** (Product-Based IT Company).  
+- 🚀 Also collaborating with **TeachToTech Service**, working on cutting-edge technologies.  
+- 🌱 Always learning and improving my skills in **Full-Stack Development**.  
+
+---
+
+## 💻 Tech Stack  
+### **Programming & Scripting:**  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+![Batch Scripting](https://img.shields.io/badge/Batch_Scripting-4E8EFF?style=for-the-badge)  
+
+### **Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+### **Frameworks & Tools:**  
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)  
+
+### **Development Tools:**  
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![SoapUI](https://img.shields.io/badge/SoapUI-00BFB3?style=for-the-badge)  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
+
+---
+
+## 🔥 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BhidwalGaurav&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhidwalGaurav&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BhidwalGaurav&theme=onedark" />
+</p>
+
+---
+
+## 📂 Featured Project  
+### **TeachToTech**  
+A tech-driven platform focused on learning and upskilling with new technologies. 🚀
+
+🔗 **[Visit TeachToTech](#)** _(Add a real link if available)_  
+
+---
+
+## 💼 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav2021/)  
+
+---
+
+## 🌟 Fun Fact  
+🧐 **"Code like a poet, debug like a detective!"** 🔍💡  
+
+---
