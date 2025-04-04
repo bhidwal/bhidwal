@@ -11,51 +11,31 @@
 - 💡 Passionate about problem-solving and optimizing performance.  
 
 ---
-
 ## 💻 Tech Stack  
-### **Programming & Scripting:**  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-![Batch Scripting](https://img.shields.io/badge/Batch_Scripting-4E8EFF?style=for-the-badge)  
 
-### **Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+### 🖥️ Programming & Scripting  
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+- ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+- ![Batch Scripting](https://img.shields.io/badge/Batch_Scripting-4E8EFF?style=for-the-badge)  
 
-### **Frameworks & Tools:**  
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge)  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)  
+### 🗄️ Databases  
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-### **Development Tools:**  
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![SoapUI](https://img.shields.io/badge/SoapUI-00BFB3?style=for-the-badge)  
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
+### 🚀 Frameworks & Libraries  
+- ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
+- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+- ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge)  
+- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+- ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)  
 
----
-
-## 🔥 GitHub Stats  
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BhidwalGaurav&theme=solarized_dark">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BhidwalGaurav&theme=dracula">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BhidwalGaurav&theme=dracula">
-</p>
-
-
----
-
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://img.shields.io/github/followers/BhidwalGaurav?label=Followers&style=social" alt="GitHub Followers">
-</p>
+### 🛠️ Development Tools  
+- ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)  
+- ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+- ![SoapUI](https://img.shields.io/badge/SoapUI-00BFB3?style=for-the-badge)  
+- ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
 
 
 ---
