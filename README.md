@@ -54,9 +54,7 @@
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BhidwalGaurav&label=Profile%20Views&color=0e75b6&style=flat" alt="BhidwalGaurav" />
   <img src="https://img.shields.io/github/followers/BhidwalGaurav?label=Followers&style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/BhidwalGaurav?affiliations=OWNER&style=social" alt="GitHub Stars">
 </p>
 
 
