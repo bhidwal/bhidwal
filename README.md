@@ -5,9 +5,10 @@
 ---
 
 ## 📌 About Me  
-- 👨‍💻 I’m currently working with **AurionPro Solution Pvt. Ltd.** (Product-Based IT Company).  
-- 🚀 Also collaborating with **TeachToTech Service**, working on cutting-edge technologies.  
-- 🌱 Always learning and improving my skills in **Full-Stack Development**.  
+- 👨‍💻 Currently working at **AurionPro Solutions Pvt. Ltd.**, a leading product-based IT company.  
+- 🚀 Collaborating with **TeachToTech Service**, working on cutting-edge technologies.  
+- 🌱 Constantly learning and improving my skills in **Full-Stack Development**.  
+- 💡 Passionate about problem-solving and optimizing performance.  
 
 ---
 
@@ -58,9 +59,9 @@
 
 ## 📂 Featured Project  
 ### **TeachToTech**  
-A tech-driven platform focused on learning and upskilling with new technologies. 🚀
+A tech-driven platform focused on learning and upskilling with new technologies. 🚀  
 
-🔗 **[Visit TeachToTech](#)** _(https://teachtotech.in/)_  
+🔗 **[Visit TeachToTech](https://teachtotech.in/)**  
 
 ---
 
@@ -70,6 +71,7 @@ A tech-driven platform focused on learning and upskilling with new technologies.
 ---
 
 ## 🌟 Fun Fact  
-🧐 **"Code like a poet, debug like a detective!"** 🔍💡  
+🤨 **"Code like a poet, debug like a detective!"** 🔍💡  
 
 ---
+
